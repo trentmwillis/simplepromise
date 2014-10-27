@@ -1,0 +1,18 @@
+{
+  "name": "SimplePromise",
+  "version": "0.1.0",
+  "description": "A Simple A+ Compliant Promise Library",
+  "main": "SimplePromise.js",
+  "scripts": {
+    "test": "promises-aplus-tests ComplianceTestAdapter.js"
+  },
+  "keywords": [
+    "promises",
+    "a+"
+  ],
+  "author": "Trent Willis",
+  "license": "ISC",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.0"
+  }
+}
